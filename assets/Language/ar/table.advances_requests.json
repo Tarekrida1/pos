@@ -1,0 +1,8 @@
+{
+    "advances_requests": {
+        "employee": "الموظف",
+        "reason": "سبب الطلب",
+        "price": "المبلغ",
+        "request_date": "تاريخ الطلب"
+    }
+}

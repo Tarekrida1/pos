@@ -1,0 +1,21 @@
+{
+    "products": {
+        "code": "كود",
+        "name": "الأسم",
+        "main_category": "التصنيف الرئيسية",
+        "sub_category": "التصنيف الفرعى",
+        "unit": "وحدة المنتج",
+        "sell_unit": "وحدة البيع",
+        "buy_unit": "وحدة الشراء",
+        "cost": "سعر التكلفة",
+        "selling": "سعر البيع",
+        "quantity": "الكمية الحالية",
+        "vat_type": "نوع الضريبة",
+        "vat": "الضريبة",
+        "quantity_alert": "تنبيهات بكميات المخزون",
+        "main_image": "الصورة الرئيسية للمنتج",
+        "product_images": "صور المنتج",
+        "details": "تفاصيل المنتج",
+        "products_invoice_details": "تفاصيل المنتج على الفاتورة"
+    }
+}

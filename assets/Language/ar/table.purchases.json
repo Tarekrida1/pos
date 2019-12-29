@@ -1,0 +1,14 @@
+{
+    "purchases": {
+        "purchase_date": "التاريخ",
+        "ref_number": "الرقم المرجعى",
+        "supplier": "المورد",
+        "status": "حالة الطلب",
+        "attachment": "المرفقات",
+        "discount_number": "النظام الضريبى",
+        "discount_percentage": "نسبة الخصم",
+        "shipping": "الشحن",
+        "notes": "الملاحظات",
+        "total": "المجموع"
+    }
+}

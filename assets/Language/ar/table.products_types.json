@@ -1,0 +1,8 @@
+{
+    "products_types": {
+        "code": "الكود",
+        "name": "النوع",
+        "static_name": "الإسم الثابت",
+        "parent_category": "القسم الرئيسى"
+    }
+}

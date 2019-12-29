@@ -1,0 +1,10 @@
+{
+    "general_payments": {
+        "date_time": "التاريغ",
+        "ref_number": "الرقم المرجعى",
+        "expenses_type": "التصنيف",
+        "price": "المبلغ",
+        "note": "ملاحظة",
+        "attachments": "المرفقات"
+    }
+}

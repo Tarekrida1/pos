@@ -1,0 +1,10 @@
+{
+    "vacation_requests": {
+        "employee": "الموظف",
+        "request_reason": "سبب الطلب",
+        "from_date": "من تاريخ",
+        "to_date": "إلى تاريخ",
+        "state": "حالة الطلب",
+        "note": "الملاحظات"
+    }
+}

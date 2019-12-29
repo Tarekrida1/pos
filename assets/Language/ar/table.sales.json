@@ -1,0 +1,16 @@
+{
+    "sales": {
+        "sale_date": "التاريخ",
+        "ref_number": "الرقم المرجعى",
+        "store": "المخزن",
+        "client": "العميل",
+        "vat_type": "النظام الضريبى",
+        "vat_percentage": "نسبة الخصم",
+        "shipping": "الشحن",
+        "documents": "المستندات",
+        "payment_state": "حالة الدفع",
+        "sell_note": "ملاحظات عملية البيع",
+        "general_note": "ملاحظات عامة",
+        "total": "المجموع"
+    }
+}
